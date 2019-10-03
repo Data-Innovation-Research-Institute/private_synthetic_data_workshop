@@ -24,3 +24,8 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 
 ## Logistics
 The event will take place in Cardiff University on December 11th. Lunch and Coffeebreaks will be privided.
+
+## Organising Team 
+- Christian Arnold (Cardiff University)
+- Marchel Neunhoeffer (University of Mannheim)
+- George Theodorakopoulos (Cardiff University)
