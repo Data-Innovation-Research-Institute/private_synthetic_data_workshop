@@ -1,9 +1,9 @@
 <a href="#contact">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
-<img src="diri_logo.jpg" alt="DIRI"> 
+<img src="DIRI_LOGO.jpg" alt="DIRI"> 
 # (Differentially) Private Synthetic Data Workshop 
 Cardiff University, December 11th 2019
 
---
+
 ## Program
 We live in a society that is collecting data at an unprecedented level and very often this data is sensitive. Scientific studies often use confidential data. Government agencies hold data about citizens that are equally sensitive. And companies —- think Facebook, Google or Twitter —- are amassing data about consumer (online) behavior.
 
@@ -20,7 +20,7 @@ Open questions include:
 - What is an intuitive measure of privacy protection for applied researchers?
 
 ## Register
-If you want to participate, please get in contact with [Chris Arnold] (https://www.cardiff.ac.uk/people/view/994654-arnold-christian)
+If you want to participate, please get in contact with [Chris Arnold](https://www.cardiff.ac.uk/people/view/994654-arnold-christian)
 
 ## Logistics
 The event will take place in Cardiff University on December 11th. Lunch and Coffeebreaks will be privided.
