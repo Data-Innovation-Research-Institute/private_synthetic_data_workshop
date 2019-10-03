@@ -1,5 +1,5 @@
 <a href="#contact">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
-<img src="DIRI_LOGO.jpg" alt="DIRI"> 
+<img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"> 
 # (Differentially) Private Synthetic Data Workshop 
 Cardiff University, December 11th 2019
 
