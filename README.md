@@ -27,5 +27,5 @@ The event will take place in Cardiff University on December 11th. Lunch and Coff
 
 ## Organising Team 
 - Christian Arnold (Cardiff University)
-- Marchel Neunhoeffer (University of Mannheim)
+- Marcel Neunhoeffer (University of Mannheim)
 - George Theodorakopoulos (Cardiff University)
