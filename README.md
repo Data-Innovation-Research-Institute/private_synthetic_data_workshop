@@ -25,6 +25,20 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 ## Logistics
 The event will take place in Cardiff University on December 11th. Lunch and Coffeebreaks will be privided.
 
+ 
+## Already Confirmed Participants
+- Christian Arnold (Cardiff University)
+- Pavle Avramovic (FCA)
+- Emiliano de Cristofaro (University College London)
+- Mark Elliot (University of Manchester)
+- Ioannis Kaloskampis (ONS)
+- Pierre-Andre Maugis (Privitar)
+- Marcel Neunhoeffer (University of Mannheim)
+- Fionntán O'Donnell (ODI)
+- Gillian Raab (University of Edinburgh)
+- Natalie Shlomo (University of Manchester)
+- George Theodorakopoulos (Cardiff University)
+
 ## Organising Team 
 - Christian Arnold (Cardiff University)
 - Marcel Neunhoeffer (University of Mannheim)
