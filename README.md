@@ -32,7 +32,7 @@ The event will take place in Cardiff University on December 11th. Lunch and Coff
 - Emiliano de Cristofaro (University College London)
 - Mark Elliot (University of Manchester)
 - Ioannis Kaloskampis (ONS)
-- Pierre-Andre Maugis (Privitar)
+- Pierre-André Maugis (Privitar)
 - Marcel Neunhoeffer (University of Mannheim)
 - Fionntán O'Donnell (ODI)
 - Gillian Raab (University of Edinburgh)
