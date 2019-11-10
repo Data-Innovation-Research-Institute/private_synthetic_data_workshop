@@ -1,4 +1,4 @@
-<a href="#contact">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
+<a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 <img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"> 
 # (Differentially) Private Synthetic Data Workshop 
 Cardiff University, December 11th 2019, Computer Science S/2.15
@@ -33,7 +33,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 * We will provide you with a quick 4 item questionnaire after the workshop. Chris and George will use it to collect joint learnings, edit responses and feed everything back to you.
 
 
-## Programme 
+## Program
 
 ### 1 User Stories&mdash;Private Synthetic Data in Practice (10am&mdash;12am)
 
