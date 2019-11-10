@@ -4,7 +4,7 @@
 Cardiff University, December 11th 2019, Computer Science S/2.15
 
 
-## Program
+## Call
 We live in a society that is collecting data at an unprecedented level and very often this data is sensitive. Scientific studies often use confidential data. Government agencies hold data about citizens that are equally sensitive. And companies - think Facebook, Google or Twitter - are amassing data about consumer (online) behavior.
 
 The original microdata can usually not be shared due to privacy concerns. Yet access for researchers to such data could potentially lead to new discoveries.  Statistical agencies might even be obliged to publish data without harming the privacy of individuals in the original collection.
@@ -23,21 +23,66 @@ Open questions include:
 If you want to participate, please get in contact with [Chris Arnold](https://www.cardiff.ac.uk/people/view/994654-arnold-christian)
 
 ## Logistics
-The event will take place in Cardiff University on December 11th. Lunch and Coffeebreaks will be privided.
+* Registration is open from 9am.
+* The workshop starts at 10am and ends at 6pm.
+* Every presentation can take up to 20mins.
+* Each block consists of a set of presentations and 30mins joint discussions/questions.
+* After each block, there is a 30mins break to chat, have coffee/tea and a sandwich in an informal setting.
+* The last hour is an open space format to enable further collaborations.
+* For those who want to continue, we will have dinner at [Valentino's](https://www.valentinocardiff.com/) at 7pm. Please confirm your participation with [Chris](mailto:arnoldc6@cardiff.ac.uk) until December 4th.
+* We will provide you with a quick 4 item questionnaire after the workshop. Chris and George will use it to collect joint learnings, edit responses and feed everything back to you.
 
- 
-## Already Confirmed Participants
-- Christian Arnold (Cardiff University)
-- Pavle Avramovic (FCA)
-- Emiliano de Cristofaro (University College London)
-- Mark Elliot (University of Manchester)
-- Ioannis Kaloskampis (ONS)
-- Pierre-André Maugis (Privitar)
-- Marcel Neunhoeffer (University of Mannheim)
-- Fionntán O'Donnell (ODI)
-- Gillian Raab (University of Edinburgh)
-- Natalie Shlomo (University of Manchester)
-- George Theodorakopoulos (Cardiff University)
+
+## Programme 
+
+### 1 User Stories&mdash;Private Synthetic Data in Practice (10am&mdash;12am)
+
+
+#### Synthetic Data As a Regulatory Enabler
+*Pavle Avramovic (Financial Conduct Authority)*
+
+#### Increasing Access to Data While Maintaining Trust
+*Fionntán O'Donnell (Open Data Institute)*
+
+#### Towards a Future Where Privacy Enables Innovation
+*Pierre-Andre Maugis (Privitar)*
+
+#### Synthetic Data in the Office for National Statistics: Research, Challenges and Applications
+*Ioannis Kaloskampis (Office for National Statistics)*
+
+### 2 User Requests: Working With Differentially Private Information (12.30pm&mdash;2.15pm)
+
+#### Differential Privacy for Government Agencies&mdash;Some Things to Consider
+*Jörg Drechsler (Institute for Employment Research, Germany)*
+
+#### Really Useful Synthetic Data&mdash;Promises and Challenges of Releasing Sensitive Information With Differentially Private Data Synthesizers
+*Christian Arnold (Cardiff University), Marcel Neunhoeffer (University of Mannheim) and Sebastian Sternberg (University of Mannheim)*
+
+#### Is It Safe to Leave &epsilon;-Differentially Private Data On A Train?
+*Gillian Raab (University of Edinburgh)*
+
+### 3 New Ways of Advancing Data Privacy and Utility (2.45pm&mdash;4.45pm)
+
+#### Protecting String Data from Reconstruction and Confidential Knowledge Exposure
+*Grigorios Loukides (Kings College London)*
+#### Multiplicative Weights Post-Amplification of Differentially Private GANs
+*Cynthia Dwork (Microsoft Research), Marcel Neunhoeffer (University of Mannheim) and Zhiwei Steven Wu (University of Minnesota)*
+
+#### The Trade-off between Information Utility and Disclosure Risk in a GA Synthetic Data Generator
+*Mark Elliot (University of Manchester)*
+
+#### TBD
+*Emiliano De Cristofaro (University College London)*
+
+### 4 Joint Discussion: Further Pathways (5pm&mdash;6pm)
+
+#### Report from the Protecting Citizens Online Funding Workshop, UKRI
+*George Theodorakopoulos (Cardiff University)*
+
+#### Open Space
+
+
+
 
 ## Organising Team 
 - Christian Arnold (Cardiff University)
