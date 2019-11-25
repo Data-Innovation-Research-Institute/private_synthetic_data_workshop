@@ -1,7 +1,7 @@
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 <img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"> 
 # (Differentially) Private Synthetic Data Workshop 
-Cardiff University, December 11th 2019, Computer Science S/2.15
+Cardiff University, December 11th 2019, Bute Building S/2.32
 
 
 ## Call
@@ -35,7 +35,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 
 ## Program
 
-### 1 User Stories&mdash;Private Synthetic Data in Practice (10am&mdash;12am)
+### 1 Private Synthetic Data in Practice (10am&mdash;12am)
 
 
 #### Synthetic Data As a Regulatory Enabler
@@ -50,7 +50,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 #### Synthetic Data in the Office for National Statistics: Research, Challenges and Applications
 *Ioannis Kaloskampis (Office for National Statistics)*
 
-### 2 User Requests: Working With Differentially Private Information (12.30pm&mdash;2.15pm)
+### 2 Working With Differentially Private Information (12.30pm&mdash;2.15pm)
 
 #### Differential Privacy for Government Agencies&mdash;Some Things to Consider
 *Jörg Drechsler (Institute for Employment Research, Germany)*
@@ -61,20 +61,25 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 #### Is It Safe to Leave &epsilon;-Differentially Private Data On A Train?
 *Gillian Raab (University of Edinburgh)*
 
-### 3 New Ways of Advancing Data Privacy and Utility (2.45pm&mdash;4.45pm)
+### 3 New Ways of Advancing Data Privacy and Utility (2.45pm&mdash;5pm)
 
 #### Protecting String Data from Reconstruction and Confidential Knowledge Exposure
 *Grigorios Loukides (Kings College London)*
-#### Multiplicative Weights Post-Amplification of Differentially Private GANs
-*Cynthia Dwork (Microsoft Research), Marcel Neunhoeffer (University of Mannheim) and Zhiwei Steven Wu (University of Minnesota)*
 
 #### The Trade-off between Information Utility and Disclosure Risk in a GA Synthetic Data Generator
 *Mark Elliot (University of Manchester)*
 
-#### TBD
+#### Integrating Differential Privacy in the Statistical Disclosure Control Tool-kit for Synthetic Data Production
+*Natalie Shlomo (University of Manchester)*
+
+#### Multiplicative Weights Post-Amplification of Differentially Private GANs
+*Cynthia Dwork (Microsoft Research), Marcel Neunhoeffer (University of Mannheim) and Zhiwei Steven Wu (University of Minnesota)*
+
+#### Differentially Private Mixture of Generative Neural Networks
 *Emiliano De Cristofaro (University College London)*
 
-### 4 Joint Discussion: Further Pathways (5pm&mdash;6pm)
+
+### 4 Joint Discussion: Further Pathways (5.15pm&mdash;6pm)
 
 #### Report from the Protecting Citizens Online Funding Workshop, UKRI
 *George Theodorakopoulos (Cardiff University)*
