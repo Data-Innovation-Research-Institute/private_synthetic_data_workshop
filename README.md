@@ -1,5 +1,5 @@
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
-<img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"><img src="ONS_RGB_Billingual.jpg" alt="DIRI" height="50" align="right"> 
+<img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"><img src="ONS_RGB_Billingual.jpg" alt="ONS" height="50" align="right"> 
 # (Differentially) Private Synthetic Data Workshop 
 Cardiff University, December 11th 2019, Bute Building S/2.32
 
