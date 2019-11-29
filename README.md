@@ -91,7 +91,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 *Grigorios Loukides (Kings College London)*
 
 
-### 4 Joint Discussion: Further Pathways (5.pm&mdash;6pm)
+### 4 Joint Discussion: Further Pathways (5pm&mdash;6pm)
 
 #### Report from the Protecting Citizens Online Funding Workshop, UKRI
 *George Theodorakopoulos (Cardiff University)*
