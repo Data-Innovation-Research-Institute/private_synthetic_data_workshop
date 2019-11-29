@@ -1,7 +1,7 @@
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 <img src="DIRI_LOGO.jpg" alt="DIRI" height="50" align="right"><img src="ONS_RGB_Bilingual.jpg" alt="ONS" height="50" align="right"> 
 # (Differentially) Private Synthetic Data Workshop 
-Cardiff University, December 11th 2019, Bute Building S/2.32
+Cardiff University, December 11th 2019,  [Bute Building S/2.32](https://www.google.co.uk/maps/dir//51.486654,-3.182173/@51.4867517,-3.1796604,17z)
 
 
 ## Call
@@ -23,70 +23,80 @@ Open questions include:
 If you want to participate, please get in contact with [Chris Arnold](https://www.cardiff.ac.uk/people/view/994654-arnold-christian)
 
 ## Logistics
-* Registration is open from 9am.
+* Registration is open in entry hall of Bute building from 9am.
 * The workshop starts at 10am and ends at 6pm.
-* Every presentation can take up to 20mins.
-* Each block consists of a set of presentations and 30mins joint discussions/questions.
-* After each block, there is a 30mins break to chat, have coffee/tea and a sandwich in an informal setting.
+* Every presentation can take up to 15 mins.
+* Each block consists of a set of presentations and 30 mins joint discussions/questions.
+* After each block, there is a 45 mins break to chat and have a coffee/tea/sandwich in an informal setting.
 * The last hour is an open space format to enable further collaborations.
-* For those who want to continue, we will have dinner at [Valentino's](https://www.valentinocardiff.com/) at 7pm. Please confirm your participation with [Chris](mailto:arnoldc6@cardiff.ac.uk) until December 4th.
-* We will provide you with a quick 4 item questionnaire after the workshop. Chris and George will use it to collect joint learnings, edit responses and feed everything back to you.
+* For those who want to continue, we will have dinner at [Valentino's](https://www.valentinocardiff.com/) at 7pm. Please confirm your participation with [Chris](mailto:arnoldc6@cardiff.ac.uk) until December 5th.
+* We will provide you with a quick 4 item questionnaire after the workshop. Chris and George will use it to collect joint learnings, edit responses and feed everything back.
 
 
-## Program
 
-### 1 Private Synthetic Data in Practice (10am&mdash;12am)
+## Programme
+
+### Welcome Notes *(10am&mdash;10.15am)*
+
+*Christian Arnold (Cardiff University)*
+
+*Irena Spasić (Cardiff University)*
+
+### 1 Private Synthetic Data in Practice *(10.15am&mdash;11.45am)*
 
 
-#### Synthetic Data As a Regulatory Enabler
+#### 1.1 Synthetic Data As a Regulatory Enabler
 *Pavle Avramovic (Financial Conduct Authority)*
 
-#### Increasing Access to Data While Maintaining Trust
+#### 1.2 Increasing Access to Data While Maintaining Trust
 *Fionntán O'Donnell (Open Data Institute)*
 
-#### Towards a Future Where Privacy Enables Innovation
+#### 1.3 Towards a Future Where Privacy Enables Innovation
 *Pierre-Andre Maugis (Privitar)*
 
-#### Synthetic Data in the Office for National Statistics: Research, Challenges and Applications
+#### 1.4 Synthetic Data in the Office for National Statistics: Research, Challenges and Applications
 *Ioannis Kaloskampis (Office for National Statistics)*
 
-### 2 Working With Differentially Private Information (12.30pm&mdash;2.15pm)
+### 2 Promises and Pitfalls of Private Synthetic Information *(12.30pm&mdash;2pm)*
 
-#### Differential Privacy for Government Agencies&mdash;Some Things to Consider
+#### 2.1 Differential Privacy for Government Agencies&mdash;Some Things to Consider
 *Jörg Drechsler (Institute for Employment Research, Germany)*
 
-#### Really Useful Synthetic Data&mdash;Promises and Challenges of Releasing Sensitive Information With Differentially Private Data Synthesizers
+#### 2.2 Really Useful Synthetic Data&mdash;Promises and Challenges of Releasing Sensitive Information With Differentially Private Data Synthesizers
 *Christian Arnold (Cardiff University), Marcel Neunhoeffer (University of Mannheim) and Sebastian Sternberg (University of Mannheim)*
 
-#### Is It Safe to Leave &epsilon;-Differentially Private Data On A Train?
+#### 2.3 Is It Safe to Leave &epsilon;-Differentially Private Data On A Train?
 *Gillian Raab (University of Edinburgh)*
 
-### 3 New Ways of Advancing Data Privacy and Utility (2.45pm&mdash;5pm)
+#### 2.4 When the Signal Is in the Noise: A Noise-Exploitation Attack on Diffix
+*Florimond Houssiau (Imperial College London)*
 
-#### Protecting String Data from Reconstruction and Confidential Knowledge Exposure
-*Grigorios Loukides (Kings College London)*
+### 3 New Ways of Advancing Data Privacy and Utility *(2.45pm&mdash;4.30pm)*
 
-#### The Trade-off between Information Utility and Disclosure Risk in a GA Synthetic Data Generator
-*Mark Elliot (University of Manchester)*
-
-#### Integrating Differential Privacy in the Statistical Disclosure Control Tool-kit for Synthetic Data Production
+#### 3.1 Integrating Differential Privacy in the Statistical Disclosure Control Tool-kit for Synthetic Data Production
 *Natalie Shlomo (University of Manchester)*
 
-#### Multiplicative Weights Post-Amplification of Differentially Private GANs
+#### 3.2 Multiplicative Weights Post-Amplification of Differentially Private GANs
 *Cynthia Dwork (Microsoft Research), Marcel Neunhoeffer (University of Mannheim) and Zhiwei Steven Wu (University of Minnesota)*
 
-#### Differentially Private Mixture of Generative Neural Networks
+#### 3.3 Differentially Private Mixture of Generative Neural Networks
 *Emiliano De Cristofaro (University College London)*
 
 
-### 4 Joint Discussion: Further Pathways (5.15pm&mdash;6pm)
+#### 3.4 The Trade-off between Information Utility and Disclosure Risk in a GA Synthetic Data Generator
+*Mark Elliot (University of Manchester)*
+
+
+#### 3.5 Protecting String Data from Reconstruction and Confidential Knowledge Exposure
+*Grigorios Loukides (Kings College London)*
+
+
+### 4 Joint Discussion: Further Pathways (5.pm&mdash;6pm)
 
 #### Report from the Protecting Citizens Online Funding Workshop, UKRI
 *George Theodorakopoulos (Cardiff University)*
 
 #### Open Space
-
-
 
 
 ## Organising Team 
