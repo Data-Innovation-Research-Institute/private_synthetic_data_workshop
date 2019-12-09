@@ -87,7 +87,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 *Mark Elliot (University of Manchester)*
 
 
-#### 3.5 Protecting String Data from Reconstruction and Confidential Knowledge Exposure
+#### 3.5 Protecting String Data from Reconstruction
 *Grigorios Loukides (Kings College London)*
 
 
