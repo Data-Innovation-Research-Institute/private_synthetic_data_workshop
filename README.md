@@ -38,9 +38,11 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 
 ### Welcome Notes *(10am&mdash;10.15am)*
 
-*Christian Arnold (Cardiff University)*
+*Christian Arnold (Cardiff University, Lecturer)*
 
-*Irena Spasić (Cardiff University)*
+*Irena Spasić (Cardiff University, Director of the Data Innovation Research Institute)*
+
+*Sarah Henry (Office for National Statistics, Director of Methods, Data and Research)*
 
 ### 1 Private Synthetic Data in Practice *(10.15am&mdash;11.45am)*
 
