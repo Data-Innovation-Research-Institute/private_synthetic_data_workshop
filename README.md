@@ -62,7 +62,7 @@ If you want to participate, please get in contact with [Chris Arnold](https://ww
 #### 2.1 Differential Privacy for Government Agencies&mdash;Some Things to Consider
 *Jörg Drechsler (Institute for Employment Research, Germany)*
 
-#### 2.2 Really Useful Synthetic Data&mdash;Promises and Challenges of Releasing Sensitive Information With Differentially Private Data Synthesizers
+#### 2.2 Really Useful Synthetic Data&mdash;a Proposal for a General Benchmark for Releasing Sensitive Information With Differentially Private Data Synthesizers
 *Christian Arnold (Cardiff University), Marcel Neunhoeffer (University of Mannheim) and Sebastian Sternberg (University of Mannheim)*
 
 #### 2.3 Is It Safe to Leave &epsilon;-Differentially Private Data On A Train?
